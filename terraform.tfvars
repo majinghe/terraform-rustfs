@@ -1,0 +1,5 @@
+rustfs_endpoint   = "localhost:9000"
+rustfs_access_key = "rustfsadmin"
+rustfs_secret_key = "rustfsadmin"
+rustfs_region     = "cn-east-1"
+bucket_name       = "tf-demo-bucket-1"
